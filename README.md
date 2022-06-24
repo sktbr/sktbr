@@ -1,6 +1,4 @@
-<b>Meu nome é Alexandre</b>
- </tr>
-<b>Eu curto andar de skate 🛹</b>
- </tr>
+<b>Meu nome é Alexandre</b> 
+<span><b>Eu curto andar de skate 🛹</b></span>
 <b>e amo jogar warzone</b> 
  </tr>
