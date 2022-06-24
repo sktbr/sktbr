@@ -1,4 +1,4 @@
-<tr>
+
 <b>Meu nome é Alexandre</b>
  </tr>
 <b>Eu curto andar de skate 🛹</b>
